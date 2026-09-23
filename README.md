@@ -18,7 +18,7 @@ The PCB layout file for the circuit is contained in `stm32_board.kicad_pcb` file
 
 Shown below is the 3D view of the routed and finalized PCB.
 
-![3DView](assets/3dview_img.png)
+![3DView](assests/3dview_img.png)
 
 This project was done following the Udemy course by Philip Salmony. [Reference](https://www.udemy.com/course/learn-kicad-v6-and-stm32-hardware-design/)
 
