@@ -14,7 +14,7 @@ The development board uses the `STM32F103C8Tx` microcontroller. USB interface is
 ## PCB design
 The PCB layout file for the circuit is contained in `stm32_board.kicad_pcb` file. Below is the screenshot of the final PCB layout after routing. I have included mounting holes for the board to be mounted onto a enclosure. The footprints for most of the components have been used from the KiCAD library itself. 3D view for the USB port was downloaded from the manufaturer's website as a step file. It is included in the file `629105150521 (rev1).stp`. I have added male headers for the UART, Serial Wire Debug and I2C communication ports. These can be configured using the STM32 Cube IDE software. 
 
-![PCB](assests/3dview_img.png)
+![PCB](assests/pcb_img.png)
 
 Shown below is the 3D view of the routed and finalized PCB.
 
