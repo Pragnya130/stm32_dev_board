@@ -2,7 +2,8 @@
 
   (uuid 058edb5f-f5a5-4cac-aa4e-0bf18ffaa150)
 
-  (paper "A4")
+
+    (paper "A4")
 
   (title_block
     (title "STM32 Development Board")
